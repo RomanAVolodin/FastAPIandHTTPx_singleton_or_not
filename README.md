@@ -1,0 +1,1 @@
+# FastAPIandHTTPx_singleton_or_not
